@@ -1,0 +1,19 @@
+body {
+	color: blue;
+}
+
+.custom-block-main{
+	background: #fdfdff !important;
+    border: 2px solid #ccc !important; 
+    padding: 1em !Important;
+}
+
+.custom-block-main .block-editor-media-placeholder {
+	background: #fdfdff !important;	
+	border : none !important;	
+    box-shadow: none !Important;	
+}
+
+.custom-block-main .block-editor-media-placeholder .components-placeholder__instructions {
+    display: none;
+}
